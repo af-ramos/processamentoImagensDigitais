@@ -9,7 +9,9 @@ Esse repositório representa as atividades realizadas durante a disciplina de Pr
 ## Requisitos
 
 - Python 3.10.12
-  - numpy
-  - pillow
+  - numpy 1.26.4
+  - pillow 10.3.0
+  - matplotlib 3.8.4
+  - scikit_learn 1.4.2
  
 **OBS:** para instalação das extensões necessárias, rodar o comando `pip install -r requirements.txt`
