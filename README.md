@@ -14,5 +14,6 @@ Esse repositório representa as atividades realizadas durante a disciplina de Pr
   - matplotlib 3.8.4
   - scikit_learn 1.4.2
   - scipy 1.13.0
+  - opencv_python 4.9.0.80
  
 **OBS:** para instalação das extensões necessárias, rodar o comando `pip install -r requirements.txt`
