@@ -12,6 +12,7 @@ Esse repositório representa as atividades realizadas durante a disciplina de Pr
   - numpy 1.26.4
   - Pillow 10.3.0
   - matplotlib 3.8.4
+  - pandas 2.2.2
   - scikit_learn 1.4.2
   - scipy 1.13.0
   - opencv_python 4.9.0.80
